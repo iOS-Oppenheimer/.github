@@ -1,12 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+## 🧑‍🤝‍🧑 Team Members (구성원)
+<table>
+  <tbody>
+    <tr>
+     <td align="center" valign="top" width="14.28%">
+       <a href="https://github.com/Luna828">
+       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="Luna828"/>
+       <br />
+         <sub>
+           <b>김은경</b>
+         </sub>
+       </a>
+       <br />
+       <sub>
+           <b>iOS Developer</b>
+       </sub>
+       <br />
+     </td>
+     <td align="center" valign="top" width="14.28%">
+       <a href="https://github.com/chumubird">
+       <img src="https://avatars.githubusercontent.com/u/138557882?v=4" width="100px;" alt="철우"/>
+       <br />
+         <sub>
+           <b>박철우</b>
+         </sub>
+       </a>
+       <br />
+       <sub>
+           <b>iOS Developer</b>
+       </sub>
+       <br />
+    </td>
+      <td align="center" valign="top" width="14.28%">
+       <a href="https://github.com/dnjs012452">
+       <img src="https://avatars.githubusercontent.com/u/139090550?v=4" width="100px;" alt="성준"/>
+       <br />
+         <sub>
+           <b>원성준</b>
+         </sub>
+       </a>
+       <br />
+       <sub>
+           <b>iOS Developer</b>
+       </sub>
+       <br />
+    </td>
+      <td align="center" valign="top" width="14.28%">
+       <a href="https://github.com/angwoo0503">
+       <img src="https://avatars.githubusercontent.com/u/136118540?v=4" width="100px;" alt="상우"/>
+       <br />
+         <sub>
+           <b>박상우</b>
+         </sub>
+       </a>
+       <br />
+       <sub>
+           <b>iOS Developer</b>
+       </sub>
+       <br />
+    </td>
+      </tbody>
+  </table>
+</div>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
